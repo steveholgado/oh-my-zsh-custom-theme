@@ -15,3 +15,7 @@ By default, it's here: `~/.zshrc`
 Locate the `ZSH_THEME` line.
 
 Add the name of the theme. For example: `ZSH_THEME="mytheme"`
+
+## Screenshot
+
+![Screenshot](screenshot.png)
